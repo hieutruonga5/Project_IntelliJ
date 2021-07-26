@@ -1,0 +1,11 @@
+2021-01-05 00:30:50 INFO  CandidateManagement:52 - 123
+2021-01-05 01:11:32 INFO  CandidateManagement:68 - 123
+2021-01-05 01:42:34 INFO  CandidateManagement:222 - SELECT fullName FROM Candidate 
+2021-01-05 01:42:51 INFO  CandidateManagement:222 - SELECT fullName FROM Candidate 
+2021-01-05 01:42:53 INFO  CandidateManagement:73 - 123
+2021-01-05 08:11:01 ERROR CandidateManagement:369 - com.microsoft.sqlserver.jdbc.SQLServerException: The TCP/IP connection to the host localhost, port 1234 has failed. Error: "Connection refused: connect. Verify the connection properties. Make sure that an instance of SQL Server is running on the host and accepting TCP/IP connections at the port. Make sure that TCP connections to the port are not blocked by a firewall.".
+2021-07-22 01:15:42 ERROR CandidateManagement:439 - Login failed for user 'sa'. ClientConnectionId:9235c01f-3833-4062-b105-b34d61aaa77c
+2021-07-22 01:15:42 INFO  CandidateManagement:222 - SELECT fullName FROM Candidate 
+2021-07-22 01:18:40 ERROR CandidateManagement:439 - Login failed for user 'sa'. ClientConnectionId:e2ef0c3d-6ccd-4f66-8cff-fd0a3cb978b2
+2021-07-22 01:18:40 INFO  CandidateManagement:222 - SELECT fullName FROM Candidate 
+2021-07-22 01:21:29 INFO  CandidateManagement:222 - SELECT fullName FROM Candidate 
